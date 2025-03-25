@@ -6,4 +6,4 @@
 
 2. Se debe hacer cunado hay archivos que no son necesarios subir a la nube
 
-3. Se puede configurar manualmente como un archivo de texto o con la pagina [gitignore.io] (https://www.gitignore.io/)
+3. Se puede configurar manualmente como un archivo de texto o con la pagina [gitignore.io](https://www.gitignore.io/)
